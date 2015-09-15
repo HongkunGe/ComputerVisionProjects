@@ -1,4 +1,4 @@
-# ComputerVisionProjects
+# Computer Vision Projects
 Four projects of computer vision are included.
 
 ## Dolly Room
